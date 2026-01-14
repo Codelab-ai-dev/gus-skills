@@ -2,10 +2,11 @@
 
 My personal collection of Claude Code skills.
 
-## Skills (1)
+## Skills (2)
 
 | Skill | Description | Download |
 |-------|-------------|----------|
+| **daily-report** [View](skills/daily-report) | Generate a daily standup report in English summarizing activities done in the cu... | [Download](releases/daily-report.skill) |
 | **jira-context** [View](skills/jira-context) | Obtener contexto de tickets de Jira para implementar código. Usar cuando necesit... | [Download](releases/jira-context.skill) |
 
 
@@ -28,4 +29,4 @@ Download from the `releases/` folder and install manually.
 This marketplace is managed with the `gus-skills-marketplace` skill.
 
 ---
-_Last updated: 2026-01-14 15:04:09_
+_Last updated: 2026-01-14 15:30:16_
