@@ -2,9 +2,11 @@
 
 My personal collection of Claude Code skills.
 
-## Skills (0)
+## Skills (1)
 
-_No skills published yet._
+| Skill | Description | Download |
+|-------|-------------|----------|
+| **jira-context** [View](skills/jira-context) | Obtener contexto de tickets de Jira para implementar código. Usar cuando necesit... | [Download](releases/jira-context.skill) |
 
 
 ## Installation
@@ -26,4 +28,4 @@ Download from the `releases/` folder and install manually.
 This marketplace is managed with the `gus-skills-marketplace` skill.
 
 ---
-_Last updated: 2026-01-14 14:55:36_
+_Last updated: 2026-01-14 15:04:09_
